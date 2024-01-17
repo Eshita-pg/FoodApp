@@ -1,5 +1,5 @@
 # FoodPharmerApp
 to run this app
-open terminal 
--- npm install
--- node index.js
+open terminal <br/>
+-- npm install <br/>
+-- node index.js <br/>
